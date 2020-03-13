@@ -5,5 +5,7 @@ using System.Text;
 namespace ShopLab
 {
     interface IOrder
-    {}
+    {
+        Order clone();
+    }
 }

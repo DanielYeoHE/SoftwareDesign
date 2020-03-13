@@ -27,6 +27,7 @@ namespace DocumentCreator
         public string GetString()
         {
             //Write code here: Look at the GetString() method of HTMLParagraph
+            return "<h"+level+">" + text + "</h"+level+">\n\n";
         }
 
         // get the level of the header

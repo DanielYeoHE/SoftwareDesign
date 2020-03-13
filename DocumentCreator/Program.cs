@@ -4,7 +4,7 @@ namespace DocumentCreator
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         { 
             Console.WriteLine("Enter a Title");
             String titleText = Console.ReadLine();
@@ -16,6 +16,9 @@ namespace DocumentCreator
             String bodyText = Console.ReadLine();
 
             //Write code here: to call the HTMLDocumentBuilder and do the necessary processing
+            HTMLDocumentBuilder htmlBuilder = new HTMLDocumentBuilder();
+            htmlBuilder.BuildDocument(titleText, authorText, bodyText);
+            var resultDoc = htmlBuilder.GetDocument();
 
             //resultDoc is an HTMLDocument, the result of the document building process
             Console.WriteLine(resultDoc.GetString());

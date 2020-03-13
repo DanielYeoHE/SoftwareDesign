@@ -1,10 +1,4 @@
-﻿//
-// Test program for the Couple class.
-//
-// Author: Dr. Nicholas Sheppard
-//
-
-using System;
+﻿using System;
 
 namespace Couple
 {
@@ -12,7 +6,7 @@ namespace Couple
     {
         static void Main(string[] args)
         {
-			// get the couple
+            			// get the couple
             Couple c1 = Couple.GetInstance(1);
 			Couple c2 = Couple.GetInstance(2);
 			

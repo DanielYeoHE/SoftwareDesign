@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.AssemblyInfo.cs
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.exe
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.deps.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.runtimeconfig.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.pdb
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.pdb

@@ -58,7 +58,9 @@ namespace DocumentCreator
 
 
         // Write code here: set the title of the document
-        
+        public void setTitle(String inputTitle) {
+            title = inputTitle;
+        }
 
     }
 }

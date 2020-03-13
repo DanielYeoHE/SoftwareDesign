@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\obj\Debug\netcoreapp3.1\Couple.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\obj\Debug\netcoreapp3.1\Couple.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\obj\Debug\netcoreapp3.1\Couple.AssemblyInfo.cs
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.exe
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.deps.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.runtimeconfig.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\bin\Debug\netcoreapp3.1\Couple.pdb
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\obj\Debug\netcoreapp3.1\Couple.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Couple\obj\Debug\netcoreapp3.1\Couple.pdb
