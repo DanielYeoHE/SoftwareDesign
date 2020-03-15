@@ -9,3 +9,14 @@ C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb

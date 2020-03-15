@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp3.1\ConstantDictionary.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp3.1\ConstantDictionary.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp3.1\ConstantDictionary.AssemblyInfo.cs
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.exe
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.deps.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.runtimeconfig.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\bin\Debug\netcoreapp3.1\ConstantDictionary.pdb
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp3.1\ConstantDictionary.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp3.1\ConstantDictionary.pdb

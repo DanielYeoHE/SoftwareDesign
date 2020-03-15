@@ -1,0 +1,3 @@
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp2.0\ConstantDictionary.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp2.0\ConstantDictionary.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\ConstantDictionary\obj\Debug\netcoreapp2.0\ConstantDictionary.AssemblyInfo.cs

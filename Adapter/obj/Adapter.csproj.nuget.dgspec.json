@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Adapter\\Adapter.csproj",
-        "packagesPath": "C:\\Users\\A101530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Adapter\\obj\\",
+        "projectPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A101530\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
