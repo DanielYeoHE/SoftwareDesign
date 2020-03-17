@@ -8,18 +8,32 @@ using System;
 
 namespace Timer
 {
-    class BeepAlarm
+    class BeepAlarm: iObserver
     {
 
+        private int secondsCount { set; get; }
+
         // constructor
-        public BeepAlarm()
+        public BeepAlarm(int seconds)
         {
+            secondsCount = seconds;
         }
-		
-		// to be invoked when the alarm is triggered
-		public void Update()
+
+        // to be invoked when the alarm is triggered
+        public void Update()
 		{
 			Console.Beep();
 		}
+
+        // decrement the value of second count
+        public void decrementSecondCount()
+        {
+            secondsCount --;
+        }
+        // get the value of second count
+        public int getSecondCount()
+        {
+           return secondsCount;
+        }
     }
 }
