@@ -20,6 +20,7 @@ namespace TwoDArray
             array = new T[rows][];
             for (int i = 0; i < rows; i++)
                 array[i] = new T[columns];
+
         }
 
         // get the element at (i, j)
@@ -38,6 +39,13 @@ namespace TwoDArray
         public ITwoDIterator<T> CreateRowMajorIterator()
         {
             return new TwoDRowMajorIteratorGeneric<T>(this);
+        }
+
+
+        // get an iterator that will traverse the array in column major order
+        public ITwoDIterator<T> CreateColumnMajorIterator()
+        {
+            return new TwoDColumnMajorIteratorGeneric<T>(this);
         }
 
         // get the number of columns in the array

@@ -10,8 +10,11 @@ namespace TwoDArray
 {
     interface ITwoDArray<T>
     {
-        // get an iterator through the array
+        // get an row major iterator through the array
         ITwoDIterator<T> CreateRowMajorIterator();
+
+        // get an column major iterator
+        ITwoDIterator<T> CreateColumnMajorIterator();
 
         // get the element at position (i, j)
         T Get(int i, int j);
