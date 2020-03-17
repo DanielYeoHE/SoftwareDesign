@@ -40,6 +40,19 @@ namespace TwoDArray
             ITwoDIterator<String> rowIter = array.CreateRowMajorIterator();
             ITwoDIterator<String> reverseIter = array.CreateReverseIterator();
 
+            // print the output to console
+            Console.WriteLine("Reverse traverse iteration: ");
+            while (!reverseIter.IsDone())
+            {  
+                var currentValue = reverseIter.Current();
+
+                if(currentValue != null) {
+                    Console.Write(currentValue + " ");
+                }
+                 reverseIter.Next();
+            }
+
+            Console.WriteLine("\n===========================\n");
             Console.WriteLine("Row major iteration: ");
             while (!rowIter.IsDone())
             {
@@ -52,19 +65,7 @@ namespace TwoDArray
                  rowIter.Next();
             }
 
-            Console.WriteLine("\n===========================\n");
-            Console.WriteLine("Reverse traverse iteration: ");
-            while (!reverseIter.IsDone())
-            {  
-                var currentValue = reverseIter.Current();
-
-                if(currentValue != null) {
-                    Console.Write(currentValue + " ");
-                }
-                 reverseIter.Next();
-            }
-
-
+            // pause the console.
             Console.WriteLine();
             Console.ReadLine();
         }
