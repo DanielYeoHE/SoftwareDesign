@@ -3,18 +3,18 @@ using System;
 
 namespace parseTree
 {
-    class NonTerminal: iTerminal
+    class branchNode: iNode
     {
         public string Equation { get; set; }
 
-        public iTerminal LeftChild { get; set; }
+        public iNode LeftChild { get; set; }
 
-        public iTerminal RightChild { get; set; }
+        public iNode RightChild { get; set; }
 
 
         public bool root { get; set; }
 
-        public NonTerminal(string equation, iTerminal left, iTerminal right, bool state = false)
+        public branchNode(string equation, iNode left, iNode right, bool state = false)
         {
             Equation = equation;
             LeftChild = left;
@@ -31,21 +31,21 @@ namespace parseTree
             return String.Format("({0} {1} {2})", LeftChild, Equation, RightChild);
         }
 
-        public Double toValue() 
+        public Double Operate() 
         {
             switch(Equation) 
             {
                 case("*"):
-                    return LeftChild.toValue() * RightChild.toValue();
+                    return LeftChild.Operate() * RightChild.Operate();
 
                 case("+"):
-                    return LeftChild.toValue() + RightChild.toValue();
+                    return LeftChild.Operate() + RightChild.Operate();
 
                 case("/"):
-                    return LeftChild.toValue() / RightChild.toValue();
+                    return LeftChild.Operate() / RightChild.Operate();
 
                 case("-"):
-                    return LeftChild.toValue() - RightChild.toValue();
+                    return LeftChild.Operate() - RightChild.Operate();
 
                 default:
                     return 0F;

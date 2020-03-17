@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\parseTree\\parseTree.csproj": {}
+    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\ParseTree\\parseTree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\parseTree\\parseTree.csproj": {
+    "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\ParseTree\\parseTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\parseTree\\parseTree.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\ParseTree\\parseTree.csproj",
         "projectName": "parseTree",
-        "projectPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\parseTree\\parseTree.csproj",
+        "projectPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\ParseTree\\parseTree.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\parseTree\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\Lab\\ASPNET\\SoftwareDesign\\ParseTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

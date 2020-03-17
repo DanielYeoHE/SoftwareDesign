@@ -3,11 +3,11 @@ using System;
 
 namespace parseTree
 {
-    class Terminal: iTerminal
+    class leafNode: iNode
     {
         public double Value { get; set; }
 
-        public Terminal(double val)
+        public leafNode(double val)
         {
             Value = val;
         }
@@ -17,7 +17,7 @@ namespace parseTree
             return Value.ToString();
         }
 
-        public Double toValue()
+        public Double Operate()
         {
             return Value;
         }
