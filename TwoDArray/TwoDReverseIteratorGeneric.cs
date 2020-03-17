@@ -5,18 +5,21 @@
 //
 // Author: Nicholas Sheppard
 //
+using System;
+
 namespace TwoDArray
 {
-    class TwoDColumnMajorIteratorGeneric<T> : ITwoDIterator<T>
+    class TwoDReverseIteratorGeneric<T> : ITwoDIterator<T>
     {
         // the collection being iterated through
         TwoDArrayGeneric<T> collection;
 
         // counters
         private int i, j;
+        private bool reversed = false;
 
         // constructor
-        public TwoDColumnMajorIteratorGeneric(TwoDArrayGeneric<T> collectionIn)
+        public TwoDReverseIteratorGeneric(TwoDArrayGeneric<T> collectionIn)
         {
             collection = collectionIn;
             i = 0;
@@ -32,18 +35,30 @@ namespace TwoDArray
         // move to the next element of the iteration
         public void Next()
         {
-            i++;
-            if (i >= collection.Rows())
-            {
-                i = 0;
-                j++;
+            if (reversed) {
+                j --;
+
+                if (j < 0) {
+                    j = 0;
+                    i ++;
+                    reversed = false;
+                }
+
+            } else {
+                j ++;
+
+                if (j >= collection.Columns()) {
+                    j = collection.Columns() - 1;
+                    i ++;
+                    reversed = true;
+                }
             }
         }
 
         // test whether or not the iteration has finished
         public bool IsDone()
         {
-            return j >= collection.Columns();
+            return i >= collection.Rows();
         }
     }
 }

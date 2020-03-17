@@ -14,7 +14,7 @@ namespace TwoDArray
         ITwoDIterator<T> CreateRowMajorIterator();
 
         // get an column major iterator
-        ITwoDIterator<T> CreateColumnMajorIterator();
+        ITwoDIterator<T> CreateReverseIterator();
 
         // get the element at position (i, j)
         T Get(int i, int j);

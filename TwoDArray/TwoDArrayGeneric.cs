@@ -43,9 +43,9 @@ namespace TwoDArray
 
 
         // get an iterator that will traverse the array in column major order
-        public ITwoDIterator<T> CreateColumnMajorIterator()
+        public ITwoDIterator<T> CreateReverseIterator()
         {
-            return new TwoDColumnMajorIteratorGeneric<T>(this);
+            return new TwoDReverseIteratorGeneric<T>(this);
         }
 
         // get the number of columns in the array
