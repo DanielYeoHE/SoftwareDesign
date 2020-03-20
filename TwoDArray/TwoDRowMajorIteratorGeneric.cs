@@ -5,6 +5,8 @@
 //
 // Author: Nicholas Sheppard
 //
+using System;
+
 namespace TwoDArray
 {
     class TwoDRowMajorIteratorGeneric<T> : ITwoDIterator<T>
@@ -26,7 +28,7 @@ namespace TwoDArray
         // get the current element of the iteration
         public T Current()
         {
-            return collection.Get(i, j);
+           return collection.Get(i, j);
         }
 
         // move to the next element of the iteration
@@ -37,6 +39,15 @@ namespace TwoDArray
             {
                 j = 0;
                 i++;
+            }
+
+            while(!IsDone()) 
+            {
+                if(Current() == null) {
+                    Next();
+                } else {
+                    break;
+                }
             }
         }
 

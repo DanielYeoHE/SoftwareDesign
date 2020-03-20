@@ -45,24 +45,18 @@ namespace TwoDArray
             while (!reverseIter.IsDone())
             {  
                 var currentValue = reverseIter.Current();
-
-                if(currentValue != null) {
-                    Console.Write(currentValue + " ");
-                }
-                 reverseIter.Next();
+                Console.Write(currentValue + " ");
+                reverseIter.Next();
             }
 
             Console.WriteLine("\n===========================\n");
             Console.WriteLine("Row major iteration: ");
+
             while (!rowIter.IsDone())
             {
-                  var currentValue = rowIter.Current();
-
-                if(currentValue != null) {
-                    Console.Write(currentValue + " ");
-                }
-                
-                 rowIter.Next();
+                var currentValue = rowIter.Current();
+                Console.Write(currentValue + " ");
+                rowIter.Next();
             }
 
             // pause the console.

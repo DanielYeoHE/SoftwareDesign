@@ -53,6 +53,15 @@ namespace TwoDArray
                     reversed = true;
                 }
             }
+
+            while(!IsDone()) 
+            {
+                if(Current() == null) {
+                    Next();
+                } else {
+                    break;
+                }
+            }
         }
 
         // test whether or not the iteration has finished
