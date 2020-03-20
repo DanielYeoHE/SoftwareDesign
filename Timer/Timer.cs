@@ -3,7 +3,6 @@
 //
 // A class representing a timer.
 //
-using System;
 using System.Collections.Generic;
 
 namespace Timer

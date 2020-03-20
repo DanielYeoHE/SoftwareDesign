@@ -15,11 +15,9 @@ namespace Timer
 
             // create some alarms
             iObserver alarm1 = new TextAlarm(10, "Wake up!");
-            iObserver alarm2 = new BeepAlarm(10);
 
             // attach the alarms to the clock
             timer.Attach(alarm1);
-            timer.Attach(alarm2);
 
             // run the clock for thirty seconds
             timer.Run(30);
