@@ -10,7 +10,7 @@ namespace Timer
 {
     class TextAlarm : iObserver
     {
-        // the message to be printed
+       // the message to be printed
         private string message;
         private int secondsCount { set; get; }
 
