@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp2.0\VendingMachineOO.deps.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp2.0\VendingMachineOO.runtimeconfig.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp2.0\VendingMachineOO.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp2.0\VendingMachineOO.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\bin\Debug\netcoreapp2.0\VendingMachineOO.pdb
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp2.0\VendingMachineOO.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp2.0\VendingMachineOO.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp2.0\VendingMachineOO.AssemblyInfo.cs
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp2.0\VendingMachineOO.dll
+C:\Users\danie\Desktop\Lab\ASPNET\SoftwareDesign\VendingMachineOO\obj\Debug\netcoreapp2.0\VendingMachineOO.pdb
